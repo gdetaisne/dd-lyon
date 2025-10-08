@@ -50,5 +50,5 @@ const lyonLaCroixRousseData = {
 };
 
 export default function LyonLaCroixRoussePage() {
-  return <LocalPage data={lyonLaCroixRousseData} />;
+  return <LocalPage {...lyonLaCroixRousseData} />;
 }

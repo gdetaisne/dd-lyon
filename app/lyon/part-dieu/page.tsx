@@ -50,5 +50,5 @@ const lyonPartDieuData = {
 };
 
 export default function LyonPartDieuPage() {
-  return <LocalPage data={lyonPartDieuData} />;
+  return <LocalPage {...lyonPartDieuData} />;
 }

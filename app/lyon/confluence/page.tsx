@@ -50,5 +50,5 @@ const lyonConfluenceData = {
 };
 
 export default function LyonConfluencePage() {
-  return <LocalPage data={lyonConfluenceData} />;
+  return <LocalPage {...lyonConfluenceData} />;
 }

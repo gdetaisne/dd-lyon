@@ -50,5 +50,5 @@ const lyonVieuxLyonData = {
 };
 
 export default function LyonVieuxLyonPage() {
-  return <LocalPage data={lyonVieuxLyonData} />;
+  return <LocalPage {...lyonVieuxLyonData} />;
 }

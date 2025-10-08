@@ -50,5 +50,5 @@ const lyonLaPresquleData = {
 };
 
 export default function LyonLaPresqulePage() {
-  return <LocalPage data={lyonLaPresquleData} />;
+  return <LocalPage {...lyonLaPresquleData} />;
 }
