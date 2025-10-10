@@ -42,7 +42,7 @@ export default function Header() {
 
   const zonesItems = [
     { href: '/lyon', label: 'Lyon' },
-    { href: '/lyon/presquile', label: 'La Presqu'île' },
+    { href: '/lyon/presquile', label: 'La Presqu\'île' },
     { href: '/lyon/croix-rousse', label: 'La Croix-Rousse' },
     { href: '/lyon/vieux-lyon', label: 'Vieux Lyon' },
     { href: '/lyon/part-dieu', label: 'Part-Dieu' },
