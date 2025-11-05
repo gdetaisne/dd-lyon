@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# Host
+Host: https://devis-demenageur-lyon.fr/
+
+# Sitemaps
+Sitemap: https://devis-demenageur-lyon.fr/sitemap.xml
