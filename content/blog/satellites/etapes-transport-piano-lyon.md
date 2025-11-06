@@ -170,7 +170,7 @@ Transporter un piano Lyon suit processus professionnel rigoureux en 6 étapes (�
 
 L'évaluation préalable visite technique Lyon (gratuite, 20-30 min) sécurise devis précis (évite surcoûts jour J), identifie nécessité monte-meuble (4ème+ étage, Croix-Rousse), et planifie équipe adaptée (2-5 personnes selon poids/configuration). La protection renforcée (housse épaisse, sanglage, calage camion) et conduite douce (vitesse modérée, virages lents, suspension amortie) minimisent risques casse. L'accordage post-déménagement (80-150€, 48-72h après) reste obligatoire.
 
-Consultez [prix piano Lyon](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [matériel spécifique](/blog/demenagement-piano-lyon/materiel-demenagement-piano), [spécialistes Lyon](/blog/demenagement-piano-lyon/demenageur-specialiste-piano-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide-complet). Bon transport !
+Consultez [prix piano Lyon](/blog/demenagement-piano-lyon/prix-demenagement-piano-droit-lyon), [matériel spécifique](/blog/demenagement-piano-lyon/materiel-demenagement-piano), [spécialistes Lyon](/blog/demenagement-piano-lyon/demenageur-specialiste-piano-lyon), [guide complet](/blog/piano/demenagement-piano-lyon-guide). Bon transport !
 
 ---
 

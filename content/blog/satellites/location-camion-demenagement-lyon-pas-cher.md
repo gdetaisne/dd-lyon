@@ -74,7 +74,7 @@ Un état des lieux contradictoire est réalisé au départ et au retour. Toute r
 
 La majorité des locations incluent 150 à 300 km selon l'agence et la durée. E.Leclerc et Hertz offrent généralement 200-250 km par jour. Au-delà, le km supplémentaire coûte 0,30 à 0,50€. Un déménagement Lyon Monplaisir → Villeurbanne = 10 km × 2 trajets (aller-retour si besoin) = 20 km, largement dans les clous. Mais Lyon → Marseille (315 km aller) ou Lyon → Paris (460 km) dépassent l'inclusion et génèrent un surcoût conséquent : 315 km - 200 km inclus = 115 km × 0,40€ = 46€ supplémentaires, voire plus.
 
-Le camion doit être rendu avec le **même niveau de carburant qu'au départ** (généralement plein). Si vous ne faites pas le plein, l'agence facture le carburant manquant au prix fort (2-2,50€/litre au lieu de 1,70-1,90€ à la pompe) + frais de service (15-30€). Un réservoir 70-80 litres à moitié vide coûte 100-130€ de pénalité. Prévoyez 40-60€ de carburant pour un déménagement local Lyon (50-80 km parcourus, consommation 12-15L/100km pour un 20m³). Pour notre [guide complet du déménagement économique à Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet), consultez toutes les astuces pour maîtriser les coûts cachés.
+Le camion doit être rendu avec le **même niveau de carburant qu'au départ** (généralement plein). Si vous ne faites pas le plein, l'agence facture le carburant manquant au prix fort (2-2,50€/litre au lieu de 1,70-1,90€ à la pompe) + frais de service (15-30€). Un réservoir 70-80 litres à moitié vide coûte 100-130€ de pénalité. Prévoyez 40-60€ de carburant pour un déménagement local Lyon (50-80 km parcourus, consommation 12-15L/100km pour un 20m³). Pour notre [guide complet du déménagement économique à Lyon](/blog/pas-cher/demenagement-lyon-pas-cher-guide), consultez toutes les astuces pour maîtriser les coûts cachés.
 
 ### Assurance Obligatoire et Options
 
@@ -188,7 +188,7 @@ Louer un camion de déménagement à Lyon coûte 70-110€ par jour pour un 20m�
 
 Pour un T2 et plus, surtout avec étages sans ascenseur ou quartiers difficiles (Vieux-Lyon, Croix-Rousse), le rapport coût/bénéfice bascule en faveur du professionnel : sécurité, rapidité, absence d'effort physique et assurance casse justifient l'écart de 500-600€. À vous d'évaluer honnêtement votre situation : avez-vous 2-3 amis fiables et costauds ? Tolérez-vous 8-10h d'effort physique intense ? Acceptez-vous le risque de casse non couverte ?
 
-Si vous hésitez encore, [consultez notre guide complet du déménagement économique à Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide-complet) pour comparer toutes les options (DIY, formule éco, formule standard, groupage) avec leurs avantages et inconvénients respectifs. Demandez également 2-3 devis déménageurs pour comparer objectivement le coût réel DIY vs pro dans votre situation précise.
+Si vous hésitez encore, [consultez notre guide complet du déménagement économique à Lyon](/blog/pas-cher/demenagement-lyon-pas-cher-guide) pour comparer toutes les options (DIY, formule éco, formule standard, groupage) avec leurs avantages et inconvénients respectifs. Demandez également 2-3 devis déménageurs pour comparer objectivement le coût réel DIY vs pro dans votre situation précise.
 
 ---
 
