@@ -126,7 +126,7 @@ Au-delà du choix de la formule ou de la période, plusieurs astuces concrètes 
 
 **Trier avant d'emballer** : Vendez, donnez ou jetez tout ce qui ne vous sert plus. Chaque objet non déménagé réduit le volume et donc le coût. Un désencombrement sérieux peut faire passer un T2 de 35m³ à 28m³, économisant 100-150€.
 
-**Récupérer des cartons gratuits** : Les supermarchés Lyon (Carrefour Confluence, Auchan Part-Dieu, Leclerc Villeurbanne) donnent gratuitement leurs cartons en bon état. Demandez au service client ou passez tôt le matin. Vous économisez 40-60€ sur un pack de 20 cartons neufs. Pour savoir précisément [où trouver des cartons gratuits à Lyon](/blog/demenagement-lyon-pas-cher/cartons-demenagement-gratuits-lyon) dans les supermarchés, commerces et points de collecte près de chez vous, consultez notre guide dédié.
+**Récupérer des cartons gratuits** : Les supermarchés Lyon (Carrefour Confluence, Auchan Part-Dieu, Leclerc Villeurbanne) donnent gratuitement leurs cartons en bon état. Demandez au service client ou passez tôt le matin. Vous économisez 40-60€ sur un pack de 20 cartons neufs. Pour savoir précisément [où trouver des cartons gratuits à Lyon](/blog/conseils/cartons-demenagement-gratuits-lyon) dans les supermarchés, commerces et points de collecte près de chez vous, consultez notre guide dédié.
 
 **Emballer vous-même** : Même avec un déménageur, l'emballage fait par vos soins économise 150-400€ selon le volume. Protégez correctement la vaisselle (papier journal, bulles), démontez les meubles démontables, et étiquetez chaque carton.
 

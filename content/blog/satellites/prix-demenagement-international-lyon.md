@@ -222,7 +222,7 @@ Au-delà distance/mode/volume, plusieurs éléments modulent le devis final.
 
 ### Lyon-Genève : combien coûte le déménagement ?
 
-**Lyon-Genève T2 : 2500-4500€ transport routier (150 km, 2h, 2-4 jours porte-à-porte). Studio : 1500-2500€. T3 : 4000-7000€.** Inclus : transport, assistance douane Suisse (inventaire bilingue, formulaire 18.44, passage frontière Bardonnex), assurance RC pro internationale. Services additionnels : emballage pro +500-1200€, dédouanement complet délégué +300-600€. Formalités Suisse strictes : permis résidence B/C obligatoire avant déménagement. [Guide Lyon-Suisse détaillé →](/blog/demenagement-international-lyon/demenagement-lyon-suisse)
+**Lyon-Genève T2 : 2500-4500€ transport routier (150 km, 2h, 2-4 jours porte-à-porte). Studio : 1500-2500€. T3 : 4000-7000€.** Inclus : transport, assistance douane Suisse (inventaire bilingue, formulaire 18.44, passage frontière Bardonnex), assurance RC pro internationale. Services additionnels : emballage pro +500-1200€, dédouanement complet délégué +300-600€. Formalités Suisse strictes : permis résidence B/C obligatoire avant déménagement. [Guide Lyon-Suisse détaillé →](/blog/conseils/demenagement-lyon-suisse)
 
 ### Combien coûte un container vers les USA depuis Lyon ?
 
@@ -252,7 +252,7 @@ Les prix déménagement international depuis Lyon s'échelonnent de 2000€ (stu
 
 Les facteurs prix (volume, distance, mode, formule porte-à-porte, services emballage/douane, accessibilité, période, assurances) génèrent écarts de 30-50% entre devis : un T2 Lyon-Genève varie de 2500€ (formule éco, vous emballez, Villeurbanne départ, basse saison) à 5000€ (standard clé en main, Vieux-Lyon, emballage pro, assurance renforcée, été). Demander 3+ devis déménageurs internationaux Lyon (AGS, Allied, Crown, S.I.E.T) permet comparaison objective et négociation.
 
-Pour détails par destination, consultez [Lyon-Suisse](/blog/demenagement-international-lyon/demenagement-lyon-suisse) et [Lyon-Italie](/blog/demenagement-international-lyon/demenagement-lyon-italie). Explorez aussi [notre guide complet international Lyon](/blog/international/demenagement-international-lyon-guide) pour formalités, documents, choix déménageur. Bon déménagement international !
+Pour détails par destination, consultez [Lyon-Suisse](/blog/conseils/demenagement-lyon-suisse) et [Lyon-Italie](/blog/conseils/demenagement-lyon-italie). Explorez aussi [notre guide complet international Lyon](/blog/international/demenagement-international-lyon-guide) pour formalités, documents, choix déménageur. Bon déménagement international !
 
 ---
 

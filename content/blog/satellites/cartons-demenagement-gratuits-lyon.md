@@ -262,7 +262,7 @@ Récupérer des cartons gratuits à Lyon est simple, rapide, et économise 40-10
 
 Anticiper 1-2 semaines avant le déménagement permet d'étaler la récupération sur 3-5 passages, de sélectionner les meilleurs cartons, et d'éviter le stress de dernière minute. Un T2 nécessite 30-40 cartons (3 passages supermarchés suffisent), tandis qu'une maison exige 80-120 cartons (6-8 passages + commerces + marketplace). L'économie de 50-100€ peut être réinvestie dans d'autres postes du déménagement (location camion meilleur standing, assurance complémentaire, services additionnels).
 
-Pour compléter votre préparation économique, consultez [notre guide complet du déménagement pas cher à Lyon](/blog/pas-cher/demenagement-lyon-pas-cher-guide) et explorez [les prix réels du déménagement économique Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025) pour budgétiser précisément. Bon déménagement et bonne récup !
+Pour compléter votre préparation économique, consultez [notre guide complet du déménagement pas cher à Lyon](/blog/pas-cher/demenagement-lyon-pas-cher-guide) et explorez [les prix réels du déménagement économique Lyon 2025](/blog/conseils/prix-demenagement-pas-cher-lyon-2025) pour budgétiser précisément. Bon déménagement et bonne récup !
 
 ---
 

@@ -142,7 +142,7 @@ Au-delà du prix, plusieurs situations rendent le professionnel économique pré
 
 **Absence d'aide fiable** : Trouver 2-3 amis disponibles un week-end entier, motivés pour porter des meubles lourds, et ponctue
 
-ls relève du défi. Si l'un fait défaut le jour J, votre déménagement est compromis. Le professionnel garantit l'équipe et respecte l'horaire. Pour découvrir les [détails de la formule économique vs standard à Lyon](/blog/demenagement-lyon-pas-cher/formule-economique-vs-standard-lyon), consultez notre comparatif détaillé.
+ls relève du défi. Si l'un fait défaut le jour J, votre déménagement est compromis. Le professionnel garantit l'équipe et respecte l'horaire. Pour découvrir les [détails de la formule économique vs standard à Lyon](/blog/conseils/formule-economique-vs-standard-lyon), consultez notre comparatif détaillé.
 
 ### Quand Choisir le DIY
 
@@ -174,7 +174,7 @@ Dans ce scénario, l'économie de 400-600€ justifie l'effort. Mais dès qu'un 
 
 ### Peut-on louer un camion à Lyon et rendre ailleurs ?
 
-**Oui, la location aller simple (Lyon → Paris, Marseille, Bordeaux, etc.) est possible avec frais supplémentaires de 150-400€ selon distance et disponibilité agence retour.** Europcar et Sixt proposent cette option sur demande (vérifier lors réservation). Hertz également. E.Leclerc est plus limité (agence unique Villeurbanne). Utile pour déménagement longue distance (Lyon → autre ville), mais le surcoût aller simple peut rendre un déménageur groupé plus compétitif (voir [déménagement groupé Lyon](/blog/demenagement-lyon-pas-cher/demenagement-groupe-lyon-economies) pour économies sur longue distance).
+**Oui, la location aller simple (Lyon → Paris, Marseille, Bordeaux, etc.) est possible avec frais supplémentaires de 150-400€ selon distance et disponibilité agence retour.** Europcar et Sixt proposent cette option sur demande (vérifier lors réservation). Hertz également. E.Leclerc est plus limité (agence unique Villeurbanne). Utile pour déménagement longue distance (Lyon → autre ville), mais le surcoût aller simple peut rendre un déménageur groupé plus compétitif (voir [déménagement groupé Lyon](/blog/conseils/demenagement-groupe-lyon-economies) pour économies sur longue distance).
 
 ### Combien de temps faut-il pour déménager soi-même avec un camion ?
 

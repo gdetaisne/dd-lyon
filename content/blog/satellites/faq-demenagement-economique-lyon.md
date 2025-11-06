@@ -32,7 +32,7 @@ Le prix minimum pour un déménagement économique à Lyon en 2025 est de **400-
 
 La location d'un camion 20m³ coûte seulement 70-110€/jour (E.Leclerc Villeurbanne 75-90€), mais ajoutez carburant, cartons et main d'œuvre (2-3 amis). Le DIY convient aux studios, la formule éco pro aux T2+. Les quartiers difficiles (Vieux-Lyon +30-50%, Croix-Rousse pentes +15-25%) majorent les tarifs. La basse saison (nov-mars) offre -10-15% supplémentaires.
 
-[Voir détails prix 2025 →](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025)
+[Voir détails prix 2025 →](/blog/conseils/prix-demenagement-pas-cher-lyon-2025)
 
 ### 2. Combien coûte un déménagement T2 à Lyon ?
 
@@ -40,7 +40,7 @@ Un T2 (30-40m³) coûte **700-900€ en formule économique** (vous emballez, d�
 
 Exemple concret : T2 Monplaisir → Villeurbanne (quartiers standards, accès faciles) = 920€ formule éco en septembre selon le marché Lyon 2025. T2 Vieux-Lyon → Confluence = 1350-1480€ (surcoût accès difficile Vieux-Lyon +30-50%). Services additionnels : étages sans ascenseur +40-60€/étage, monte-meuble +200-350€, emballage pro +150-400€.
 
-[Comparatif formules →](/blog/demenagement-lyon-pas-cher/formule-economique-vs-standard-lyon)
+[Comparatif formules →](/blog/conseils/formule-economique-vs-standard-lyon)
 
 ### 3. Quels quartiers de Lyon sont les plus chers pour déménager ?
 
@@ -56,7 +56,7 @@ Le **Vieux-Lyon (5ème arrondissement) est le quartier le plus cher** (+30-50% v
 
 Ces aides sont **cumulables** sous conditions. Exemple alternant : Mobili-Pass 3500€ + CROUS 250€ si étudiant = 3750€ total. Famille salariée : CAF 995€ + Mobili-Pass 3500€ = 4495€. Délais : 2-6 semaines selon dispositif. Contacts Lyon : Action Logement 42 Rue Part-Dieu, CAF Gerland/Part-Dieu, CROUS 59 Rue Madeleine.
 
-[Guide aides complètes →](/blog/demenagement-lyon-pas-cher/aides-financieres-demenagement-lyon)
+[Guide aides complètes →](/blog/pas-cher/aides-financieres-demenagement-lyon)
 
 ### 5. Comment obtenir le Mobili-Pass à Lyon ?
 
@@ -78,7 +78,7 @@ La **basse saison (janvier-février) est la plus économique** : -10-20% vs tari
 
 **Inconvénients** : froid (2-8°C), pluies fréquentes, jours courts (nuit 17h). **Compromis qualité/prix** : octobre, avril (tarifs standards, météo correcte). **Éviter absolument** : fin août - début septembre (+10-20% surcoût, 170 000 étudiants saturent marché, délais 4-6 semaines).
 
-[Analyse saisonnalité complète →](/blog/demenagement-lyon-pas-cher/meilleure-periode-demenager-lyon)
+[Analyse saisonnalité complète →](/blog/conseils/meilleure-periode-demenager-lyon)
 
 ### 8. Faut-il éviter septembre pour déménager à Lyon ?
 
@@ -94,7 +94,7 @@ La **basse saison (janvier-février) est la plus économique** : -10-20% vs tari
 
 **Déménageur formule éco (400-500€ studio, 700-900€ T2)** s'impose si **3ème étage+ sans ascenseur** (risque blessure), **objets fragiles/lourds** (télévision, ordinateur, bibliothèque), **aucune aide**, ou **contrainte horaire stricte**. Le DIY nécessite organisation rigoureuse et disponibilité complète. À partir T2, le pro offre meilleur rapport sécurité/prix.
 
-[Comparatif DIY vs Pro →](/blog/demenagement-lyon-pas-cher/location-camion-demenagement-lyon-pas-cher)
+[Comparatif DIY vs Pro →](/blog/conseils/location-camion-demenagement-lyon-pas-cher)
 
 ### 10. Où louer un camion pas cher à Lyon ?
 
@@ -108,7 +108,7 @@ La **formule économique** (700-900€ T2) propose **transport uniquement** : vo
 
 **Assurance RC pro identique** : casse/vol pendant transport couvert 60-100k€. **Durée** : 3-4h T2 (éco) vs 5-6h (standard). **Effort** : vous consacrez 2-3 jours emballage avant + 1-2 jours déballage après. **Idéal** : studio, T1, T2 standard, budget serré, temps dispo. **Formule standard préférable** : T3+, meubles complexes (cuisine équipée), objets précieux, absence temps.
 
-[Comparatif détaillé →](/blog/demenagement-lyon-pas-cher/formule-economique-vs-standard-lyon)
+[Comparatif détaillé →](/blog/conseils/formule-economique-vs-standard-lyon)
 
 ## Ressources Gratuites
 
@@ -118,7 +118,7 @@ La **formule économique** (700-900€ T2) propose **transport uniquement** : vo
 
 **Commerces spécialisés** (Cultura Part-Dieu, Fnac Bellecour, Boulanger Confluence) fournissent cartons renforcés livres/électronique (demander vendeurs). **Marketplace Facebook** ("Lyon Gratuit") et **Leboncoin** (rubrique Donne) proposent cartons entre particuliers. **Pharmacies** Lyon donnent 2-5 cartons médicaments (très solides) par officine. **Économie** : 40-60€ pack 20 cartons neufs.
 
-[Guide cartons gratuits complet →](/blog/demenagement-lyon-pas-cher/cartons-demenagement-gratuits-lyon)
+[Guide cartons gratuits complet →](/blog/conseils/cartons-demenagement-gratuits-lyon)
 
 ### 13. Combien de cartons pour un T2 ?
 
@@ -134,7 +134,7 @@ Un T2 (30-40m³) nécessite **30-40 cartons** : 10-12 petits (livres, vaisselle 
 
 **Red flags** : <3,5/5 avis, pas SIRET, refus attestation assurance, devis oral, tarif -40% marché (400€ T2 = suspect). **Déménageurs Lyon fiables identifiés** : S.I.E.T (4,2/5, 84 avis), Lugnier (5,0/5), Citius, Demenagix (4,5/5). Demander 3+ devis, comparer, vérifier societe.com existence entreprise.
 
-[Guide choix déménageur →](/blog/demenagement-lyon-pas-cher/choisir-demenageur-fiable-pas-cher-lyon)
+[Guide choix déménageur →](/blog/conseils/choisir-demenageur-fiable-pas-cher-lyon)
 
 ### 15. Quels red flags éviter ?
 
@@ -150,7 +150,7 @@ Un déménagement **studio étudiant Lyon coûte 400-500€ en formule économiq
 
 La formule DIY convient si rez-de-chaussée/ascenseurs, aide disponible, peu de meubles lourds. La formule éco pro s'impose si étages sans ascenseur (3ème+), objets fragiles, ou aucune aide. **Déménager fin août (rentrée) coûte +10-15% vs autres périodes** (mi-juillet, octobre-juin). Les 170 000 étudiants lyonnais doivent anticiper réservation mi-juillet pour éviter surcoûts et indisponibilité septembre.
 
-[Guide étudiant complet →](/blog/demenagement-lyon-pas-cher/demenagement-etudiant-lyon-pas-cher)
+[Guide étudiant complet →](/blog/conseils/demenagement-etudiant-lyon-pas-cher)
 
 ### 17. Existe-t-il des aides déménagement pour étudiants Lyon ?
 
@@ -186,7 +186,7 @@ Cette FAQ déménagement économique Lyon 2025 répond aux 20 questions essentie
 
 Les spécificités lyonnaises (Vieux-Lyon +30-50%, Villeurbanne -5-10%, 170 000 étudiants saturant septembre) imposent stratégies adaptées : anticiper réservation mi-juillet si déménagement fin août, privilégier quartiers accès faciles (Monplaisir, Confluence), récupérer 30-40 cartons gratuits supermarchés (Carrefour, Auchan, Leclerc), cumuler aides (CROUS + université = 300-700€).
 
-Pour approfondir chaque thème, consultez nos guides détaillés : [prix Lyon 2025](/blog/demenagement-lyon-pas-cher/prix-demenagement-pas-cher-lyon-2025), [solutions économiques](/blog/pas-cher/demenagement-lyon-pas-cher-guide), [aides financières](/blog/demenagement-lyon-pas-cher/aides-financieres-demenagement-lyon). **Bon déménagement économique à Lyon !**
+Pour approfondir chaque thème, consultez nos guides détaillés : [prix Lyon 2025](/blog/conseils/prix-demenagement-pas-cher-lyon-2025), [solutions économiques](/blog/pas-cher/demenagement-lyon-pas-cher-guide), [aides financières](/blog/pas-cher/aides-financieres-demenagement-lyon). **Bon déménagement économique à Lyon !**
 
 ---
 
