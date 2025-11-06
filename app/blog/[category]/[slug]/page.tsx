@@ -7,6 +7,7 @@ import { getCanonicalUrl } from '@/lib/canonical-helper';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
+import BlogArticleStructuredData from '@/components/blog/BlogArticleStructuredData';
 
 interface BlogPostPageProps {
   params: {
@@ -122,6 +123,9 @@ export default function BlogPostPage({ params }: BlogPostPageProps) {
 
   return (
     <main className="bg-hero min-h-screen">
+      {/* JSON-LD avec searchIntent */}
+      <BlogArticleStructuredData post={post} canonicalUrl={getCanonicalUrl(`blog/${params.category}/${params.slug}`)} />
+      
       <div className="halo" />
       
       {/* Hero Section */}
