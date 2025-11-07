@@ -26,23 +26,6 @@ export default function DemenagementStandardPage() {
   const city = getCityDataFromUrl(env.SITE_URL);
   return (
     <main className="bg-hero">
-      <ServiceJsonLd
-        serviceType="Standard"
-        faqItems={[
-          {
-            question: "Est-ce que l'emballage est fourni ?",
-            answer: "Oui, les cartons standard sont inclus dans la formule. Nous fournissons tous les cartons nécessaires pour emballer vos affaires. Pour les objets très fragiles, nous recommandons la formule premium.",
-          },
-          {
-            question: 'Puis-je ajouter un service "fragile" ?',
-            answer: "Oui, vous pouvez ajouter des services à la carte comme l'emballage d'objets très fragiles. Ces options sont facturées en supplément. Pour un service complet, nous recommandons la formule premium.",
-          },
-          {
-            question: "Quelle est la différence avec la formule économique ?",
-            answer: "La formule standard inclut en plus : protection des meubles avec housses, emballage standard avec cartons fournis, et une assurance renforcée. C'est le meilleur rapport qualité/prix pour un déménagement complet.",
-          },
-        ]}
-      />
       <div className="halo" />
       
       {/* Hero Section */}
