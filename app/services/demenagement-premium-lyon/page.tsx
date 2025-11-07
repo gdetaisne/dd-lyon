@@ -6,7 +6,6 @@ import { env } from "@/lib/env";
 import type { Metadata } from "next";
 import { buildServiceSchema } from "@/lib/schema/service";
 import { buildFaqPageSchema } from "@/lib/schema/faq";
-import JsonLdScript from "@/components/JsonLdScript";
 
 export const metadata: Metadata = (() => {
   const city = getCityDataFromUrl(env.SITE_URL);
@@ -27,6 +26,41 @@ export const metadata: Metadata = (() => {
 
 export default function DemenagementPremiumPage() {
   const city = getCityDataFromUrl(env.SITE_URL);
+  
+  const serviceSchema = {
+    ...buildServiceSchema({
+      name: `Déménagement Premium ${city.nameCapitalized}`,
+      serviceType: "Déménagement Premium",
+      url: getCanonicalUrl(`services/demenagement-premium-${city.slug}`),
+      areaServed: [city.nameCapitalized],
+      priceRange: "€€€",
+    }),
+    provider: {
+      "@type": "Organization",
+      "@id": `${getCanonicalUrl("").replace(/\/$/, "")}/#organization`,
+      "name": `Déménageurs ${city.nameCapitalized} (IA)`,
+      "url": getCanonicalUrl("").replace(/\/$/, ""),
+    },
+  };
+
+  const faqSchema = buildFaqPageSchema([
+    {
+      question: "Puis-je ne rien faire moi-même ?",
+      answer:
+        "Oui, dans la formule premium, nos partenaires gèrent tout: emballage, démontage, transport, installation, nettoyage.",
+    },
+    {
+      question: "Y a-t-il un suivi personnalisé ?",
+      answer:
+        "Oui, un chef d'équipe dédié coordonne tout le déménagement et reste votre interlocuteur unique.",
+    },
+    {
+      question: "Que se passe-t-il avec les objets très fragiles ?",
+      answer:
+        "Emballage spécialisé inclus (objets d'art, instruments, électronique) par des équipes formées.",
+    },
+  ]);
+  
   return (
     <main className="bg-hero">
       <div className="halo" />
@@ -302,41 +336,17 @@ export default function DemenagementPremiumPage() {
       <CtaPrimary placement="inline" label="Prêt pour votre déménagement premium ?" />
 
       {/* JSON-LD Structured Data */}
-      <JsonLdScript
-        data={{
-          ...buildServiceSchema({
-            name: `Déménagement Premium ${city.nameCapitalized}`,
-            serviceType: "Déménagement Premium",
-            url: getCanonicalUrl(`services/demenagement-premium-${city.slug}`),
-            areaServed: [city.nameCapitalized],
-            priceRange: "€€€",
-          }),
-          provider: {
-            "@type": "Organization",
-            "@id": `${getCanonicalUrl("").replace(/\/$/, "")}/#organization`,
-            "name": `Déménageurs ${city.nameCapitalized} (IA)`,
-            "url": getCanonicalUrl("").replace(/\/$/, ""),
-          },
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(serviceSchema),
         }}
       />
-      <JsonLdScript
-        data={buildFaqPageSchema([
-          {
-            question: "Puis-je ne rien faire moi-même ?",
-            answer:
-              "Oui, dans la formule premium, nos partenaires gèrent tout: emballage, démontage, transport, installation, nettoyage.",
-          },
-          {
-            question: "Y a-t-il un suivi personnalisé ?",
-            answer:
-              "Oui, un chef d'équipe dédié coordonne tout le déménagement et reste votre interlocuteur unique.",
-          },
-          {
-            question: "Que se passe-t-il avec les objets très fragiles ?",
-            answer:
-              "Emballage spécialisé inclus (objets d'art, instruments, électronique) par des équipes formées.",
-          },
-        ])}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(faqSchema),
+        }}
       />
     </main>
   );
