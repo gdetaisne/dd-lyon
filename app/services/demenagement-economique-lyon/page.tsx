@@ -4,8 +4,6 @@ import { getCanonicalUrl } from "@/lib/canonical-helper";
 import { getCityDataFromUrl } from "@/lib/cityData";
 import { env } from "@/lib/env";
 import type { Metadata } from "next";
-import { buildServiceSchema } from "@/lib/schema/service";
-import { buildFaqPageSchema } from "@/lib/schema/faq";
 
 export const metadata: Metadata = (() => {
   const city = getCityDataFromUrl(env.SITE_URL);
@@ -26,41 +24,6 @@ export const metadata: Metadata = (() => {
 
 export default function DemenagementEconomiquePage() {
   const city = getCityDataFromUrl(env.SITE_URL);
-  
-  const serviceSchema = {
-    ...buildServiceSchema({
-      name: `Déménagement Économique ${city.nameCapitalized}`,
-      serviceType: "Déménagement Économique",
-      url: getCanonicalUrl(`services/demenagement-economique-${city.slug}`),
-      areaServed: [city.nameCapitalized],
-      priceRange: "€",
-    }),
-    provider: {
-      "@type": "Organization",
-      "@id": `${getCanonicalUrl("").replace(/\/$/, "")}/#organization`,
-      "name": `Déménageurs ${city.nameCapitalized} (IA)`,
-      "url": getCanonicalUrl("").replace(/\/$/, ""),
-    },
-  };
-
-  const faqSchema = buildFaqPageSchema([
-    {
-      question: "Est-ce que je dois préparer mes cartons moi-même ?",
-      answer:
-        "Oui, dans la formule économique, vous devez préparer vos cartons vous-même. C'est ce qui permet de maintenir des tarifs attractifs.",
-    },
-    {
-      question: "Y a-t-il une assurance de base incluse ?",
-      answer:
-        "Oui, l'assurance responsabilité civile du déménageur est incluse. Pour une protection renforcée, nous recommandons la formule standard.",
-    },
-    {
-      question: "Puis-je ajouter des services à la carte ?",
-      answer:
-        "Oui, des services complémentaires comme l'emballage d'objets fragiles peuvent être ajoutés lors du devis.",
-    },
-  ]);
-  
   return (
     <main className="bg-hero">
       <div className="halo" />
@@ -310,20 +273,6 @@ export default function DemenagementEconomiquePage() {
 
       {/* CTA Section */}
       <CtaPrimary placement="inline" label="Prêt pour votre déménagement économique ?" />
-
-      {/* JSON-LD Structured Data */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(serviceSchema),
-        }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(faqSchema),
-        }}
-      />
     </main>
   );
 }
