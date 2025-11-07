@@ -6,7 +6,6 @@ import { env } from "@/lib/env";
 import type { Metadata } from "next";
 import { buildServiceSchema } from "@/lib/schema/service";
 import { buildFaqPageSchema } from "@/lib/schema/faq";
-import JsonLd from "@/components/JsonLd";
 
 export const metadata: Metadata = (() => {
   const city = getCityDataFromUrl(env.SITE_URL);
