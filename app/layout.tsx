@@ -5,7 +5,7 @@ import { Suspense } from "react";
 import Link from "next/link";
 import Script from "next/script";
 import Header from "@/components/Header";
-import StructuredSiteGraph from "@/components/StructuredSiteGraph";
+import AllStructuredData from "@/components/AllStructuredData";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import GAListener from "./ga-listener";
 import { env } from "@/lib/env";
@@ -63,7 +63,7 @@ export default function RootLayout({
         <Suspense fallback={null}>
           <GAListener />
         </Suspense>
-        <StructuredSiteGraph />
+        <AllStructuredData />
         <Header />
         <main>{children}</main>
         <Footer />
