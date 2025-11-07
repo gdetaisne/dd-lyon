@@ -281,41 +281,49 @@ export default function DemenagementStandardPage() {
       <CtaPrimary placement="inline" label="Prêt pour votre déménagement standard ?" />
 
       {/* JSON-LD Structured Data */}
-      <JsonLd
-        data={{
-          ...buildServiceSchema({
-            name: `Déménagement Standard ${city.nameCapitalized}`,
-            serviceType: "Déménagement Standard",
-            url: getCanonicalUrl(`services/demenagement-standard-${city.slug}`),
-            areaServed: [city.nameCapitalized],
-            priceRange: "€€",
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            ...buildServiceSchema({
+              name: `Déménagement Standard ${city.nameCapitalized}`,
+              serviceType: "Déménagement Standard",
+              url: getCanonicalUrl(`services/demenagement-standard-${city.slug}`),
+              areaServed: [city.nameCapitalized],
+              priceRange: "€€",
+            }),
+            provider: {
+              "@type": "Organization",
+              "@id": `${getCanonicalUrl("").replace(/\/$/, "")}/#organization`,
+              "name": `Déménageurs ${city.nameCapitalized} (IA)`,
+              "url": getCanonicalUrl("").replace(/\/$/, ""),
+            },
           }),
-          provider: {
-            "@type": "Organization",
-            "@id": `${getCanonicalUrl("").replace(/\/$/, "")}/#organization`,
-            "name": `Déménageurs ${city.nameCapitalized} (IA)`,
-            "url": getCanonicalUrl("").replace(/\/$/, ""),
-          },
         }}
       />
-      <JsonLd
-        data={buildFaqPageSchema([
-          {
-            question: "Est-ce que l'emballage est fourni ?",
-            answer:
-              "Oui, les cartons standard sont inclus dans la formule. Nous fournissons tous les cartons nécessaires pour emballer vos affaires. Pour les objets très fragiles, nous recommandons la formule premium.",
-          },
-          {
-            question: "Puis-je ajouter un service \"fragile\" ?",
-            answer:
-              "Oui, vous pouvez ajouter des services à la carte comme l'emballage d'objets très fragiles. Ces options sont facturées en supplément. Pour un service complet, nous recommandons la formule premium.",
-          },
-          {
-            question: "Quelle est la différence avec la formule économique ?",
-            answer:
-              "La formule standard inclut en plus : protection des meubles avec housses, emballage standard avec cartons fournis, et une assurance renforcée. C'est le meilleur rapport qualité-prix pour un déménagement complet.",
-          },
-        ])}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            buildFaqPageSchema([
+              {
+                question: "Est-ce que l'emballage est fourni ?",
+                answer:
+                  "Oui, les cartons standard sont inclus dans la formule. Nous fournissons tous les cartons nécessaires pour emballer vos affaires. Pour les objets très fragiles, nous recommandons la formule premium.",
+              },
+              {
+                question: "Puis-je ajouter un service \"fragile\" ?",
+                answer:
+                  "Oui, vous pouvez ajouter des services à la carte comme l'emballage d'objets très fragiles. Ces options sont facturées en supplément. Pour un service complet, nous recommandons la formule premium.",
+              },
+              {
+                question: "Quelle est la différence avec la formule économique ?",
+                answer:
+                  "La formule standard inclut en plus : protection des meubles avec housses, emballage standard avec cartons fournis, et une assurance renforcée. C'est le meilleur rapport qualité-prix pour un déménagement complet.",
+              },
+            ])
+          ),
+        }}
       />
     </main>
   );
