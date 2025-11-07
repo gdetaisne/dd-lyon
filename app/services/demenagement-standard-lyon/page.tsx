@@ -9,6 +9,23 @@ import { buildFaqPageSchema } from "@/lib/schema/faq";
 
 export const metadata: Metadata = (() => {
   const city = getCityDataFromUrl(env.SITE_URL);
+  return {
+    title: `Déménagement Standard ${city.nameCapitalized} — Dès 600€`,
+    description: `Déménagement standard ${city.nameCapitalized} : qualité/prix dès 600-900€. Estimation IA gratuite, 5 devis sous 7j. Volume identique, déménageurs vérifiés. Dossier anonyme.`,
+    alternates: {
+      canonical: getCanonicalUrl(`services/demenagement-standard-${city.slug}`),
+    },
+    openGraph: {
+      title: `Déménagement Standard ${city.nameCapitalized}`,
+      description: `Déménagement standard ${city.nameCapitalized} : qualité/prix dès 600-900€. Estimation IA gratuite, 5 devis sous 7j. Volume identique, déménageurs vérifiés. Dossier anonyme.`,
+      url: getCanonicalUrl(`services/demenagement-standard-${city.slug}`),
+      type: 'website',
+    },
+  };
+})();
+
+export default function DemenagementStandardPage() {
+  const city = getCityDataFromUrl(env.SITE_URL);
   
   const serviceSchema = {
     ...buildServiceSchema({
@@ -29,39 +46,21 @@ export const metadata: Metadata = (() => {
   const faqSchema = buildFaqPageSchema([
     {
       question: "Est-ce que l'emballage est fourni ?",
-      answer: "Oui, les cartons standard sont inclus dans la formule. Nous fournissons tous les cartons nécessaires pour emballer vos affaires. Pour les objets très fragiles, nous recommandons la formule premium.",
+      answer:
+        "Oui, les cartons standard sont inclus dans la formule. Nous fournissons tous les cartons nécessaires pour emballer vos affaires. Pour les objets très fragiles, nous recommandons la formule premium.",
     },
     {
       question: "Puis-je ajouter un service \"fragile\" ?",
-      answer: "Oui, vous pouvez ajouter des services à la carte comme l'emballage d'objets très fragiles. Ces options sont facturées en supplément. Pour un service complet, nous recommandons la formule premium.",
+      answer:
+        "Oui, vous pouvez ajouter des services à la carte comme l'emballage d'objets très fragiles. Ces options sont facturées en supplément. Pour un service complet, nous recommandons la formule premium.",
     },
     {
       question: "Quelle est la différence avec la formule économique ?",
-      answer: "La formule standard inclut en plus : protection des meubles avec housses, emballage standard avec cartons fournis, et une assurance renforcée. C'est le meilleur rapport qualité-prix pour un déménagement complet.",
+      answer:
+        "La formule standard inclut en plus : protection des meubles avec housses, emballage standard avec cartons fournis, et une assurance renforcée. C'est le meilleur rapport qualité-prix pour un déménagement complet.",
     },
   ]);
   
-  return {
-    title: `Déménagement Standard ${city.nameCapitalized} — Dès 600€`,
-    description: `Déménagement standard ${city.nameCapitalized} : qualité/prix dès 600-900€. Estimation IA gratuite, 5 devis sous 7j. Volume identique, déménageurs vérifiés. Dossier anonyme.`,
-    alternates: {
-      canonical: getCanonicalUrl(`services/demenagement-standard-${city.slug}`),
-    },
-    openGraph: {
-      title: `Déménagement Standard ${city.nameCapitalized}`,
-      description: `Déménagement standard ${city.nameCapitalized} : qualité/prix dès 600-900€. Estimation IA gratuite, 5 devis sous 7j. Volume identique, déménageurs vérifiés. Dossier anonyme.`,
-      url: getCanonicalUrl(`services/demenagement-standard-${city.slug}`),
-      type: 'website',
-    },
-    other: {
-      'script:ld+json:service': JSON.stringify(serviceSchema),
-      'script:ld+json:faq': JSON.stringify(faqSchema),
-    },
-  };
-})();
-
-export default function DemenagementStandardPage() {
-  const city = getCityDataFromUrl(env.SITE_URL);
   return (
     <main className="bg-hero">
       <div className="halo" />
@@ -315,6 +314,20 @@ export default function DemenagementStandardPage() {
 
       {/* CTA Section */}
       <CtaPrimary placement="inline" label="Prêt pour votre déménagement standard ?" />
+
+      {/* JSON-LD Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(serviceSchema),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(faqSchema),
+        }}
+      />
     </main>
   );
 }
