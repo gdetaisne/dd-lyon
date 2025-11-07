@@ -277,20 +277,6 @@ export default function DemenagementStandardPage() {
 
       {/* CTA Section */}
       <CtaPrimary placement="inline" label="Prêt pour votre déménagement standard ?" />
-
-      {/* JSON-LD Structured Data */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(serviceSchema),
-        }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(faqSchema),
-        }}
-      />
     </main>
   );
 }
