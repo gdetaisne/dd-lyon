@@ -1,6 +1,5 @@
 import Breadcrumbs from "@/components/Breadcrumbs";
 import CtaPrimary from "@/components/CtaPrimary";
-import ServiceJsonLd from "@/components/ServiceJsonLd";
 import { getCanonicalUrl } from "@/lib/canonical-helper";
 import { getCityDataFromUrl } from "@/lib/cityData";
 import { env } from "@/lib/env";
