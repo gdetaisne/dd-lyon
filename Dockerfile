@@ -1,5 +1,5 @@
 # Dockerfile multi-sites Moverz - lyon
-# Version canonique: 2025-10-29
+# Version canonique: 2025-11-07
 #
 # ⚠️  WARNING: Ce fichier est généré depuis .templates/Dockerfile.template
 # ⚠️  NE PAS MODIFIER CE FICHIER DIRECTEMENT
