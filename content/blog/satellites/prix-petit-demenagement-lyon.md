@@ -24,7 +24,7 @@ Un petit déménagement Lyon (<10m³ volume, chambre étudiante 6-8m³ ou studio
 
 Les facteurs prix incluent volume réel (calcul précis m³ évite surfacturation : 15 cartons = 0,75m³, lit 90cm = 0,6m³, bureau Ikea = 0,4m³, total chambre étudiant 6-8m³ vs déménageur généraliste comptant 12-15m³ forfait studio = surfacturation 100-200€), distance (intra-Lyon <10 km 0€ supplément, Lyon métropole 10-30 km +20-50€, région Rhône >30 km +50-150€), étages sans ascenseur (RDC-2ème étage 0€, 3ème-5ème +30-80€ manutention supplémentaire, 6ème+ +80-150€), et services (basique transport uniquement 150-250€, standard transport + déchargement aide 200-350€, premium emballage + transport + installation 300-500€).
 
-Ce guide détaille prix moyens petit déménagement Lyon par volume (chambre 150-250€, studio 250-400€, T1 300-500€), compare formules (DIY location camion 80-150€ vs pro 150-400€), présente acteurs Lyon spécialisés petit volume (déménageurs flexibles, camionnettes chauffeur indépendants), révèle astuces économiser (préparer cartons soi-même -30-50€, déménager semaine vs week-end -20-30€, comparer 3+ devis), et conseille éviter pièges (frais cachés, forfaits minimums). Pour studio complet, consultez [déménagement pas cher Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide/).
+Ce guide détaille prix moyens petit déménagement Lyon par volume (chambre 150-250€, studio 250-400€, T1 300-500€), compare formules (DIY location camion 80-150€ vs pro 150-400€), présente acteurs Lyon spécialisés petit volume (déménageurs flexibles, camionnettes chauffeur indépendants), révèle astuces économiser (préparer cartons soi-même -30-50€, déménager semaine vs week-end -20-30€, comparer 3+ devis), et conseille éviter pièges (frais cachés, forfaits minimums). Pour studio complet, consultez [déménagement pas cher Lyon](/blog/pas-cher/demenagement-lyon-pas-cher-guide).
 
 ## Tarifs Moyens Petit Volume Lyon
 
@@ -126,7 +126,7 @@ Ce guide détaille prix moyens petit déménagement Lyon par volume (chambre 150
 
 ### Petit déménagement moins cher Lyon ?
 
-**DIY location camion 12m³ moins cher (80-150€ vs pro 250-400€, économie 170-250€) mais efforts physiques, risques casse, temps (journée vs 3-4h pro). Pro petit volume économique : formule basique transport uniquement (vous chargez/déchargez) 150-250€ vs standard 250-400€.** Astuces : cartons gratuits supermarchés, déménager semaine, négocier flexibilité dates, mutualiser camionnette entre étudiants/amis (coût ÷ 2-3). Consultez notre [guide déménagement pas cher Lyon](/blog/demenagement-lyon-pas-cher/demenagement-lyon-pas-cher-guide/).
+**DIY location camion 12m³ moins cher (80-150€ vs pro 250-400€, économie 170-250€) mais efforts physiques, risques casse, temps (journée vs 3-4h pro). Pro petit volume économique : formule basique transport uniquement (vous chargez/déchargez) 150-250€ vs standard 250-400€.** Astuces : cartons gratuits supermarchés, déménager semaine, négocier flexibilité dates, mutualiser camionnette entre étudiants/amis (coût ÷ 2-3). Consultez notre [guide déménagement pas cher Lyon](/blog/pas-cher/demenagement-lyon-pas-cher-guide).
 
 ### Combien coûte déménagement studio Lyon ?
 

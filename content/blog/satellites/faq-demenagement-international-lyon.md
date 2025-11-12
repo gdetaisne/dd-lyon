@@ -134,7 +134,7 @@ Cette FAQ déménagement international Lyon 2025 répond aux 18 questions essent
 
 Les spécificités Lyon (proximité Suisse 150 km/Italie 300 km routier 2-4j, aéroport Saint-Exupéry vols intercontinentaux, ports Marseille/Le Havre accessibles pré-acheminement, consulats Suisse/Italie/USA présents) facilitent déménagements internationaux comparé villes isolées. Anticiper 6 mois (visas, permis, inventaire, réservation) garantit sérénité. Urgences <2 mois possibles (surcoût +20-30%, stress formalités).
 
-Pour approfondir : [prix détaillés](/blog/conseils/prix-demenagement-international-lyon), [formalités douane](/blog/conseils/formalites-douanieres-international-lyon), [documents](/blog/conseils/documents-demenagement-international-lyon), [délais](/blog/conseils/delais-demenagement-international-lyon), [Lyon-Suisse](/blog/conseils/demenagement-lyon-suisse), [Lyon-Italie](/blog/conseils/demenagement-lyon-italie), [guide complet](/blog/international/demenagement-international-lyon-guide-complet). Bon déménagement international !
+Pour approfondir : [prix détaillés](/blog/conseils/prix-demenagement-international-lyon), [formalités douane](/blog/conseils/formalites-douanieres-international-lyon), [documents](/blog/conseils/documents-demenagement-international-lyon), [délais](/blog/conseils/delais-demenagement-international-lyon), [Lyon-Suisse](/blog/conseils/demenagement-lyon-suisse), [Lyon-Italie](/blog/conseils/demenagement-lyon-italie), [guide complet](/blog/international/demenagement-international-lyon-guide). Bon déménagement international !
 
 ---
 

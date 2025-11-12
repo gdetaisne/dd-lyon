@@ -114,7 +114,7 @@ FAQ garde-meuble Lyon 2025 répond 18 questions essentielles : prix 55-480€/mo
 
 Spécificités Lyon : étudiants 170 000 stockage été (boxes 1-3m² 55-120€/mois, promotions -5-10% cartes), entreprises archives/stock (15-50m² HT, TVA déductible), stockage temporaire déménagement (1-6 mois décalage dates/travaux). Promotions fréquentes (1er mois offert économie 130-480€). Comparateur 3+ acteurs (Shurgard sites, Homebox, Une Pièce en Plus) optimise rapport qualité/prix.
 
-Guides détaillés : [prix](/blog/conseils/prix-garde-meuble-lyon-2025), [Shurgard](/blog/conseils/shurgard-lyon-sites-tarifs), [tailles](/blog/conseils/taille-box-choisir-lyon), [self vs traditionnel](/blog/conseils/self-stockage-vs-garde-meuble-traditionnel-lyon), [sécurité](/blog/conseils/securite-garde-meuble-lyon), [étudiant](/blog/conseils/garde-meuble-etudiant-lyon-pas-cher), [temporaire](/blog/conseils/stockage-pendant-demenagement-lyon), [entreprise](/blog/conseils/garde-meuble-entreprise-lyon), [guide complet](/blog/garde-meuble/garde-meuble-lyon-guide-complet). Bon stockage Lyon !
+Guides détaillés : [prix](/blog/conseils/prix-garde-meuble-lyon-2025), [Shurgard](/blog/conseils/shurgard-lyon-sites-tarifs), [tailles](/blog/conseils/taille-box-choisir-lyon), [self vs traditionnel](/blog/conseils/self-stockage-vs-garde-meuble-traditionnel-lyon), [sécurité](/blog/conseils/securite-garde-meuble-lyon), [étudiant](/blog/conseils/garde-meuble-etudiant-lyon-pas-cher), [temporaire](/blog/conseils/stockage-pendant-demenagement-lyon), [entreprise](/blog/conseils/garde-meuble-entreprise-lyon), [guide complet](/blog/garde-meuble/garde-meuble-lyon-guide). Bon stockage Lyon !
 
 ---
 
