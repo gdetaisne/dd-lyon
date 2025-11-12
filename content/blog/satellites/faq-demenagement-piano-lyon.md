@@ -26,7 +26,6 @@ Cette FAQ compile les 15 questions les plus fréquentes sur le déménagement de
 
 ### 1. Prix déménagement piano droit Lyon ?
 
-**Piano droit Lyon : 250-500€ local rez-de-chaussée, 400-800€ avec étages.** Rez-de-chaussée Villeurbanne-Bron 10 km : 320€. 3ème étage : 490-610€ (+240-360€ = 3×80-120€/étage). 4ème+ : 570-950€ (monte-meuble recommandé +200-350€). Vieux-Lyon surcoût +40-60% (4ème : 800-1000€ vs 570-730€ standard). Facteurs : poids 200-350 kg, quartier, distance >30 km (+50-100€/10 km), assurance valeur +50-150€. [Détails →](/blog/piano/prix-demenagement-piano-droit-lyon)
 
 ### 2. Prix piano queue Lyon ?
 
@@ -100,7 +99,7 @@ Cette FAQ déménagement piano Lyon 2025 répond aux 15 questions essentielles c
 
 Les 200-600 kg pianos nécessitent expertise professionnelle (équipe formée, équipement adapté, assurance), DIY fortement déconseillé (risque blessure grave + casse). Les quartiers anciens Lyon (Vieux-Lyon, Croix-Rousse, Presqu'île) imposent surcoûts (escaliers étroits raides, portage extrême) vs quartiers modernes (Confluence, Villeurbanne ascenseurs 1000+ kg, accès faciles).
 
-Pour approfondir : [prix droit](/blog/piano/prix-demenagement-piano-droit-lyon), [prix queue](/blog/conseils/prix-demenagement-piano-queue-lyon), [monte-meuble](/blog/conseils/monte-meuble-piano-lyon), [spécialistes](/blog/conseils/demenageur-specialiste-piano-lyon), [assurance](/blog/conseils/assurance-demenagement-piano), [accordage](/blog/conseils/accordage-piano-apres-demenagement-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide). Bon déménagement instrument !
+Pour approfondir : [prix queue](/blog/conseils/prix-demenagement-piano-queue-lyon), [monte-meuble](/blog/conseils/monte-meuble-piano-lyon), [spécialistes](/blog/conseils/demenageur-specialiste-piano-lyon), [assurance](/blog/conseils/assurance-demenagement-piano), [accordage](/blog/conseils/accordage-piano-apres-demenagement-lyon), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide). Bon déménagement instrument !
 
 ---
 
