@@ -155,7 +155,7 @@ Ce guide détaille toutes aides financières Lyon (CAF 1000€, FSL 150-500€, 
 
 Aides financières déménagement Lyon économisent 150-3500€ : prime CAF 1000€ (familles 3+ enfants RSA, enfant <21 mois, conditions strictes 6 cumulatives), FSL 150-500€ (situations précaires impayés/expulsion/insalubrité, ressources faibles, cumulable CAF = 1300€), Mobili-Pass 3500€ prêt 1% salariés privés mutations >70 km (remboursable 97€/mois × 36, non-cumulable CAF), APA 150-500€ seniors 60+ GIR 1-4 (déménagement logement adapté, cumulable caisses retraite 100-300€ = 600€ total), mutuelles/employeurs 50-2000€ (négociables).
 
-Démarches : CAF Rhône dossier online/courrier (justificatifs complets, délais 2-4 mois), CCAS/MMS FSL (RDV assistante sociale, commission 4-8 semaines), Action Logement online (2-6 semaines), APA révision plan (4-8 semaines). Cumuls maximum : famille précaire 1300€ (CAF + FSL), senior 600€ (APA + retraite). Consultez [manutentionnaire](/blog/conseils/manutentionnaire-demenagement-lyon), [prix](/blog/prix/prix-demenagement-lyon-guide). Bonnes aides !
+Démarches : CAF Rhône dossier online/courrier (justificatifs complets, délais 2-4 mois), CCAS/MMS FSL (RDV assistante sociale, commission 4-8 semaines), Action Logement online (2-6 semaines), APA révision plan (4-8 semaines). Cumuls maximum : famille précaire 1300€ (CAF + FSL), senior 600€ (APA + retraite). Consultez [manutentionnaire](/blog/conseils/manutentionnaire-demenagement-lyon), [prix](/blog/prix-demenagement-lyon/prix-demenagement-lyon-guide). Bonnes aides !
 
 ---
 

@@ -95,7 +95,7 @@ Choisir un déménageur spécialisé piano Lyon impose vérifier expérience con
 
 Les spécialistes exclusifs piano (2-3 Lyon, recommandations conservatoire) affichent +20-30% surcoût (400€ vs 320€ droit) mais pertinents pianos grande valeur (queue concert >50 000€, anciens/rares). Exiger visite technique, vérifier équipement (photos chariots/sangles), demander 3 devis, comparer assurances. Prévoir accordage post-déménagement 48-72h (80-150€, obligatoire).
 
-Consultez [prix piano Lyon](/blog/piano/prix-demenagement-piano-droit-lyon), [monte-meuble](/blog/conseils/monte-meuble-piano-lyon), [assurance](/blog/conseils/assurance-demenagement-piano), [guide complet](/blog/piano/demenagement-piano-lyon-guide). Bonne protection instrument !
+Consultez [prix piano Lyon](/blog/piano/prix-demenagement-piano-droit-lyon), [monte-meuble](/blog/conseils/monte-meuble-piano-lyon), [assurance](/blog/conseils/assurance-demenagement-piano), [guide complet](/blog/demenagement-piano-lyon/demenagement-piano-lyon-guide). Bonne protection instrument !
 
 ---
 
