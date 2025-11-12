@@ -218,7 +218,7 @@ Ce guide détaille prix déménagement T3 Lyon 650-1200€ facteurs (étages RDC
 
 Prix déménagement T3 Lyon 650-1200€ facteurs multiples : étages (RDC-2ème 650-850€ vs 5-6ème sans ascenseur 950-1300€ +40-55%), distance (intra-Lyon base vs +30-400€ métropole/région), configurations (standard 55-60m³ vs traversant 65-75m³ +15-25%), acteurs (PME 600-900€ vs Lugnier 650-1000€ vs S.I.E.T 700-1200€), prestations (économique 500-750€ vs premium 1200-1800€). Familles budgets 800-1500€ tolérés 1,5-2,5% revenus privilégient fiabilité <2% incidents vs économies risques 3-8%. Calendriers scolaires impactent : haute saison juin-août +15-25%, rentrées septembre +10-20%, basse octobre-mars -5-15%.
 
-Optimisations : désencombrement 65→50m³ (-150-300€), négociations basse saison rabais 100-300€, comparaisons 3-5 devis -10-20%, prestations modulaires selon besoins. Longue distance >100 km solutions mixtes -40-60% économies. Périodes optimales : mai-juin équilibre météo/tarifs vs juillet-août saturations. Acteurs : PME corrects <15K€ mobilier, S.I.E.T/Lugnier fiabilité >15K€. Consultez notre [guide prix déménagement Lyon](/blog/prix-demenagement-lyon/prix-demenagement-lyon-guide). Bon déménagement T3 !
+Optimisations : désencombrement 65→50m³ (-150-300€), négociations basse saison rabais 100-300€, comparaisons 3-5 devis -10-20%, prestations modulaires selon besoins. Longue distance >100 km solutions mixtes -40-60% économies. Périodes optimales : mai-juin équilibre météo/tarifs vs juillet-août saturations. Acteurs : PME corrects <15K€ mobilier, S.I.E.T/Lugnier fiabilité >15K€. Consultez notre . Bon déménagement T3 !
 
 ---
 
