@@ -24,7 +24,7 @@ Déménager un piano nécessite matériel spécialisé distinct équipement dém
 
 Un déménageur sérieux Lyon spécialisé piano (S.I.E.T 3ème arrondissement, Lugnier, spécialistes via conservatoire Lyon 9ème) possède cet équipement systématiquement : chariot piano Steinway ou équivalent (marque référence, 2000-3000€ achat neuf, plateau caoutchouc 160×80 cm, roulettes 12 cm diamètre absorption vibrations, freins sécurisés), sangles cuir/nylon renforcées (100-200€ jeu 4 sangles, largeur 12 cm, crochets acier inoxydable charge 300 kg/sangle), housses sur-mesure piano droit/queue (300-800€ selon taille, matelassage 6-8 mm angles renforcés, Velcro/sangles fermeture), patins feutre/caoutchouc (protections roulettes chariot évitant rayures parquet chêne massif, 20-50€ jeu), et accès monte-meuble location partenaire (camion-nacelle CACES, 200-350€/intervention).
 
-Ce guide détaille chaque équipement obligatoire (chariot, sangles, housses, patins, monte-meuble), explique différences matériel professionnel vs standard, révèle coûts matériel (investissement déménageur justifiant tarifs piano 250-2500€ vs déménagement standard), et présente vérifications effectuer lors visite technique Lyon (demander voir photos équipement). Pour prix, consultez [tarifs piano Lyon](/blog/piano/prix-demenagement-piano-droit-lyon).
+Ce guide détaille chaque équipement obligatoire (chariot, sangles, housses, patins, monte-meuble), explique différences matériel professionnel vs standard, révèle coûts matériel (investissement déménageur justifiant tarifs piano 250-2500€ vs déménagement standard), et présente vérifications effectuer lors visite technique Lyon (demander voir photos équipement).
 
 ## Chariots Piano Professionnels
 

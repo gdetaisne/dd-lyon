@@ -24,7 +24,7 @@ Choisir un déménageur spécialisé piano à Lyon nécessite vérifier critère
 
 À Lyon, les déménageurs généralistes proposant service piano sur demande incluent **S.I.E.T** (3ème arrondissement, 84 avis Google 4,2/5, équipement piano disponible, expérience objets lourds/fragiles), **Déménagements Lugnier** (5,0/5, spécialiste meubles précieux incluant pianos), **Citius** (service premium, piano sur demande), tandis que les spécialistes exclusifs piano restent rares Lyon (2-3 entreprises uniquement pianos/instruments musique, contacter conservatoire Lyon 9ème Auditorium Maurice Ravel ou magasins pianos Feeling Musique Part-Dieu, Pianos Hanlet Confluence pour recommandations). Les tarifs spécialistes exclusifs affichent +20-30% vs généralistes équipés (piano droit 400€ spécialiste vs 320€ généraliste), justifié par expertise pointue et assurances renforcées, mais pertinent uniquement pianos grande valeur (>15 000€, pianos queue, instruments anciens/rares).
 
-Ce guide liste critères sélection déménageur piano Lyon, détaille équipement indispensable vérifier, présente déménageurs Lyon identifiés (généralistes équipés vs spécialistes exclusifs), révèle red flags éviter, et explique comment vérifier références/expérience. Pour prix détaillés, consultez [tarifs piano Lyon 2025](/blog/piano/prix-demenagement-piano-droit-lyon).
+Ce guide liste critères sélection déménageur piano Lyon, détaille équipement indispensable vérifier, présente déménageurs Lyon identifiés (généralistes équipés vs spécialistes exclusifs), révèle red flags éviter, et explique comment vérifier références/expérience.
 
 ## Critères Sélection Indispensables
 

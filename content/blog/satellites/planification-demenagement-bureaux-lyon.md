@@ -146,7 +146,7 @@ Ce guide détaille rétroplanning complet 3-6 mois (audit M-6/M-3, prestataire M
 
 ### Déménagement bureaux week-end ou semaine ?
 
-**Week-end (samedi-dimanche) PME optimal : continuité activité (0 jour fermeture vs 2-5j semaine = pertes CA 10-50K€), surcoût +20-30% (3000€ PME → 3600€ week-end, 600€ vs 10-50K€ pertes justifié). Semaine possible si : fermeture estivale/annuelle planifiée, startup <10 personnes flexibles remote, budget ultra-serré acceptant interruption.** ETI >50 postes : échelonnement 2-4 semaines service par service (production semaine 1, support semaine 2, commercial semaine 3, IT week-end final data center). Tests : réseaux/téléphonie dimanche soir validation lundi 8h ouverture. [Zones affaires →](/blog/entreprise/zones-affaires-lyon)
+**Week-end (samedi-dimanche) PME optimal : continuité activité (0 jour fermeture vs 2-5j semaine = pertes CA 10-50K€), surcoût +20-30% (3000€ PME → 3600€ week-end, 600€ vs 10-50K€ pertes justifié). Semaine possible si : fermeture estivale/annuelle planifiée, startup <10 personnes flexibles remote, budget ultra-serré acceptant interruption.** ETI >50 postes : échelonnement 2-4 semaines service par service (production semaine 1, support semaine 2, commercial semaine 3, IT week-end final data center). Tests : réseaux/téléphonie dimanche soir validation lundi 8h ouverture. [Zones affaires →](/blog/satellites/zones-affaires-lyon-demenagement/)
 
 ---
 

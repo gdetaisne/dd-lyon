@@ -24,7 +24,7 @@ Déménager un piano à queue à Lyon représente une opération technique compl
 
 Un piano demi-queue Yamaha C3 (186 cm, 320 kg, valeur 25 000-35 000€) ou Kawai GX-2 (180 cm, 340 kg) se déménage à Lyon pour 800-1100€ configuration standard (rez-de-chaussée accessible, trajet local <10 km, accès faciles Villeurbanne/Confluence/Part-Dieu). Avec étages sans ascenseur, le coût atteint 1000-1400€ (monte-meuble quasi-obligatoire 4ème+, portage 3 étages= +300-450€). Un piano queue concert Steinway D (274 cm, 480 kg, valeur 80 000-150 000€) ou Fazioli F278 (278 cm, 570 kg, valeur 120 000-180 000€) destiné salle concert Lyon (Auditorium Maurice Ravel, salle Molière, Opéra Lyon) coûte 1800-2500€ déménagement professionnel avec assurance tous-risques renforcée (+300-500€, couverture 100 000-200 000€).
 
-Ce guide détaille tarifs 2025 demi-queue vs queue concert, analyse facteurs surcoût vs piano droit, explique démontage pieds et temps additionnel, présente équipement spécifique queue (chariots renforcés, sangles élargies), et compare prix Lyon selon quartiers/configurations. Pour piano droit, consultez [prix droit Lyon](/blog/piano/prix-demenagement-piano-droit-lyon).
+Ce guide détaille tarifs 2025 demi-queue vs queue concert, analyse facteurs surcoût vs piano droit, explique démontage pieds et temps additionnel, présente équipement spécifique queue (chariots renforcés, sangles élargies), et compare prix Lyon selon quartiers/configurations.
 
 ## Prix Piano Demi-Queue Lyon (150-210 cm)
 

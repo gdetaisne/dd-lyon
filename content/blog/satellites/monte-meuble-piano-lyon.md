@@ -24,7 +24,7 @@ Le monte-meuble devient obligatoire ou fortement recommandé à Lyon pour démé
 
 Toutefois, le monte-meuble présente limitations géographiques Lyon : le **Vieux-Lyon (5ème arrondissement)** avec ses rues médiévales de 1,5-2 m de largeur interdit totalement le stationnement d'un camion-nacelle (largeur 2,50 m + stabilisateurs 1 m chaque côté = 4,50 m nécessaires minimum), certaines **Pentes de la Croix-Rousse** affichent rues trop étroites également (2-2,50 m montées pavées), et les immeubles sans fenêtre/balcon côté rue (courettes intérieures uniquement, fréquent Presqu'île) ne peuvent accéder au monte-meuble extérieur. Dans ces configurations, le portage manuel reste l'unique solution malgré complexité et coût élevé (équipe renforcée 4-5 personnes, durée allongée, surcoût +40-60%).
 
-Ce guide explique quand le monte-meuble s'impose à Lyon, compare monte-meuble vs portage escaliers (coût, durée, sécurité), détaille types monte-meuble disponibles (extérieur fenêtre, monte-charge immeuble), révèle quartiers Lyon compatibles ou impossibles, et présente tarifs 2025. Pour tarifs globaux, consultez [prix piano droit Lyon](/blog/piano/prix-demenagement-piano-droit-lyon).
+Ce guide explique quand le monte-meuble s'impose à Lyon, compare monte-meuble vs portage escaliers (coût, durée, sécurité), détaille types monte-meuble disponibles (extérieur fenêtre, monte-charge immeuble), révèle quartiers Lyon compatibles ou impossibles, et présente tarifs 2025.
 
 ## Quand le Monte-Meuble est-il Obligatoire ?
 

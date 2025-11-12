@@ -24,7 +24,7 @@ Transporter un piano droit ou à queue à Lyon suit un processus professionnel e
 
 La protection et préparation piano (30-45 min) précèdent chargement : fermeture couvercle et verrouillage (éviter ouverture accidentelle chocs), blocage pédalier (empêcher mouvement mécanisme), retrait objets posés dessus (partitions, métronome, bibelots = projectiles vibrations), housse matelassée épaisse 5-8 mm (protection laque/angles), et sanglage sécurisé (maintien housse, préparation portage). Le chargement camion (30-60 min) utilise chariot piano (roulettes caoutchouc diamètre 10-12 cm absorbant vibrations) jusqu'au hayon, rampe antidérapante chargement (pente douce 15-20° évitant secousses), calage camion sangles murales (immobilisation totale piano voyageant debout, éviter basculement virages), et couvertures additionnelles (isolation autres meubles si déménagement complet).
 
-Ce guide détaille les 6 étapes professionnelles (évaluation, protection, chargement, transport, déchargement, installation), révèle durées réelles chaque phase (total 2-6h selon configuration), explique techniques spécifiques Lyon (portage escaliers étroits, monte-meuble Croix-Rousse), et présente erreurs éviter. Pour coûts détaillés, consultez [prix piano Lyon](/blog/piano/prix-demenagement-piano-droit-lyon).
+Ce guide détaille les 6 étapes professionnelles (évaluation, protection, chargement, transport, déchargement, installation), révèle durées réelles chaque phase (total 2-6h selon configuration), explique techniques spécifiques Lyon (portage escaliers étroits, monte-meuble Croix-Rousse), et présente erreurs éviter.
 
 ## Étape 1 : Évaluation et Devis (J-7 à J-30)
 

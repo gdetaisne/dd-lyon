@@ -24,7 +24,7 @@ L'assurance responsabilité civile professionnelle standard incluse dans tout de
 
 Lyon présentant quartiers difficiles (Vieux-Lyon escaliers médiévaux 80-95 cm virages serrés risque chocs élevé, Croix-Rousse pentes raides portage délicat, Presqu'île immeubles 5-7 étages sans ascenseur fatigue équipe générant risque faux-mouvement), l'assurance valeur déclarée devient indispensable pianos valeur >8000€ ou anciens/rares irremplaçables (pianos européens 19ème, Pleyel français, Erard). Les déménageurs spécialisés Lyon (S.I.E.T, Lugnier) proposent systématiquement cette option lors devis technique après visite domicile. Le conservatoire Lyon (Auditorium Maurice Ravel) et salles concert exigent assurance renforcée tous risques (100 000-200 000€ couverture) pour déménagement pianos Steinway/Fazioli propriété institutions (+300-600€ prime).
 
-Ce guide explique différence RC pro vs valeur déclarée, détaille couvertures assurance piano (casse, vol, désaccordage), révèle coût réel selon valeur instrument (5000-150 000€), présente process réclamation si sinistre, et conseille quand souscrire. Pour tarifs transport, consultez [prix piano Lyon](/blog/piano/prix-demenagement-piano-droit-lyon).
+Ce guide explique différence RC pro vs valeur déclarée, détaille couvertures assurance piano (casse, vol, désaccordage), révèle coût réel selon valeur instrument (5000-150 000€), présente process réclamation si sinistre, et conseille quand souscrire.
 
 ## RC Pro vs Valeur Déclarée
 

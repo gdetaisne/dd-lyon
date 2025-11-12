@@ -56,7 +56,7 @@ Le **Vieux-Lyon (5ème arrondissement) est le quartier le plus cher** (+30-50% v
 
 Ces aides sont **cumulables** sous conditions. Exemple alternant : Mobili-Pass 3500€ + CROUS 250€ si étudiant = 3750€ total. Famille salariée : CAF 995€ + Mobili-Pass 3500€ = 4495€. Délais : 2-6 semaines selon dispositif. Contacts Lyon : Action Logement 42 Rue Part-Dieu, CAF Gerland/Part-Dieu, CROUS 59 Rue Madeleine.
 
-[Guide aides complètes →](/blog/pas-cher/aides-financieres-demenagement-lyon)
+[Guide aides complètes →](/blog/aide-au-demenagement-lyon/aide-au-demenagement-lyon-guide-complet/)
 
 ### 5. Comment obtenir le Mobili-Pass à Lyon ?
 
