@@ -143,15 +143,16 @@ const nextConfig = {
       // { source: '/services/demenagement-standard-lyon', destination: '/services/', permanent: true }, // SUPPRIMÉ - page existe
       { source: '/blog/demenagement-lyon/aide-au-demenagement-guide', destination: '/blog/aide-au-demenagement-lyon/aide-au-demenagement-lyon-guide-complet', permanent: true },
       
-      // PAGES LÉGALES : Trailing slash
-      { source: '/mentions-legales/', destination: '/mentions-legales', permanent: true },
-      { source: '/cgv/', destination: '/cgv', permanent: true },
-      { source: '/politique-confidentialite/', destination: '/politique-confidentialite', permanent: true },
       
       // PAGES QUARTIERS : Majuscules
       { source: '/quartiers-Lyon', destination: '/quartiers-lyon', permanent: true },
       
       // ANCIENNES URLs
+
+      // REDIRECTIONS inventaire-ia → devis-gratuits (20/01/2026)
+      { source: '/inventaire-ia', destination: '/devis-gratuits/', permanent: true },
+      { source: '/inventaire-ia/', destination: '/devis-gratuits/', permanent: true },
+      { source: '/inventaire-ia/:path*', destination: '/devis-gratuits/:path*', permanent: true },
       { source: '/estimation-demenagement-lyon/', destination: '/estimation-rapide', permanent: true },
       { source: '/prix-demenagement-lyon/', destination: '/blog/prix-demenagement-lyon/prix-demenagement-lyon-guide-complet', permanent: true },
       { source: '/devis-demenagement-lyon/', destination: '/estimation-rapide', permanent: true },
