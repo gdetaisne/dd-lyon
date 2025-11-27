@@ -531,6 +531,7 @@ function InventaireIAPageInner() {
       const destCityParam = searchParams.get('destCity');
       const movingDateParam = searchParams.get('movingDate');
       const estimatedVolumeParam = searchParams.get('estimatedVolume');
+      const surfaceM2Param = searchParams.get('surfaceM2');
       const leadIdFromUrl = searchParams.get('leadId');
 
       // leadId : l'URL est la source de vérité
@@ -578,7 +579,13 @@ function InventaireIAPageInner() {
         nextState = { ...nextState, movingDate: movingDateParam };
       }
 
-      if (estimatedVolumeParam) {
+      // Surface prioritaire si fournie dans l'URL
+      if (surfaceM2Param) {
+        const m2 = parseInt(surfaceM2Param, 10);
+        if (!Number.isNaN(m2)) {
+          nextState = { ...nextState, surfaceM2: m2 };
+        }
+      } else if (estimatedVolumeParam) {
         const vol = parseFloat(estimatedVolumeParam);
         if (!Number.isNaN(vol) && baseState.surfaceM2 === INITIAL_FORM_STATE.surfaceM2) {
           nextState = { ...nextState, surfaceM2: Math.round(vol) };
@@ -808,7 +815,13 @@ function InventaireIAPageInner() {
     if (formState.currentStep === 2) {
       const key = formState.originHousingType as HousingType;
       const suggestedSurface = HOUSING_SURFACE_TYPICAL[key] ?? HOUSING_SURFACE_TYPICAL.t2;
-      updateField('surfaceM2', suggestedSurface);
+
+      // Ne pas écraser une surface déjà connue (par ex. issue d'un lead existant /
+      // d'un lien de relance). On ne remplace que si on est encore sur la valeur par défaut.
+      if (formState.surfaceM2 === INITIAL_FORM_STATE.surfaceM2) {
+        updateField('surfaceM2', suggestedSurface);
+      }
+
       // On synchronise le type de logement pour le pricing, en conservant la distinction entre maisons
       updateField('housingType', formState.originHousingType as FormState['housingType']);
     }
