@@ -1670,5 +1670,9 @@ function InventaireIAPageInner() {
 }
 
 export default function InventaireIAPage() {
-  return <InventaireIAPageInner />;
+  return (
+    <Suspense fallback={null}>
+      <InventaireIAPageInner />
+    </Suspense>
+  );
 }
