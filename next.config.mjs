@@ -46,6 +46,10 @@ const nextConfig = {
   // Redirections 404 - URLs sans -lyon vers avec -lyon
   async redirects() {
     const existing = [
+      // VAGUE 2 – Migration homepage domaine → page ville moverz.fr
+      { source: '/', destination: 'https://moverz.fr/demenagement/lyon/', permanent: true },
+
+      // Redirections historiques
       // PILIERS : Catégories sans -lyon → avec -lyon (10 redirects)
       { source: '/blog/aide-au-demenagement/aide-au-demenagement-guide-complet', destination: '/blog/aide-au-demenagement-lyon/aide-au-demenagement-lyon-guide-complet', permanent: true },
       { source: '/blog/demenagement-entreprise/demenagement-entreprise-guide-complet', destination: '/blog/demenagement-entreprise-lyon/demenagement-entreprise-lyon-guide-complet', permanent: true },
