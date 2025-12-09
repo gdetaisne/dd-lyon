@@ -49,6 +49,12 @@ const nextConfig = {
       // VAGUE 2 – Migration homepage domaine → page ville moverz.fr
       { source: '/', destination: 'https://moverz.fr/demenagement/lyon/', permanent: true },
 
+      // MIGRATION BLOG → moverz.fr
+      { source: '/blog', destination: 'https://moverz.fr/blog/', permanent: true },
+      { source: '/blog/', destination: 'https://moverz.fr/blog/', permanent: true },
+      // Nouvelle structure /blog/demenagement-lyon/{slug} → moverz.fr/blog/{slug}
+      { source: '/blog/demenagement-lyon/:slug*', destination: 'https://moverz.fr/blog/:slug*', permanent: true },
+
       // Redirections historiques
       // PILIERS : Catégories sans -lyon → avec -lyon (10 redirects)
       { source: '/blog/aide-au-demenagement/aide-au-demenagement-guide-complet', destination: '/blog/aide-au-demenagement-lyon/aide-au-demenagement-lyon-guide-complet', permanent: true },
