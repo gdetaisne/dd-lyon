@@ -56,10 +56,10 @@ const nextConfig = {
       { source: '/lyon-vers-paris/', destination: 'https://moverz.fr/lyon-vers-paris/', permanent: true },
       { source: '/lyon-vers-toulouse/', destination: 'https://moverz.fr/lyon-vers-toulouse/', permanent: true },
       // Services
-      { source: '/services/', destination: 'https://moverz.fr/services/', permanent: true },
-      { source: '/services/demenagement-economique-lyon/', destination: 'https://moverz.fr/services/demenagement-economique/', permanent: true },
-      { source: '/services/demenagement-premium-lyon/', destination: 'https://moverz.fr/services/demenagement-premium/', permanent: true },
-      { source: '/services/demenagement-standard-lyon/', destination: 'https://moverz.fr/services/demenagement-standard/', permanent: true },
+      { source: '/services/', destination: 'https://moverz.fr/', permanent: true },
+      { source: '/services/demenagement-economique-lyon/', destination: 'https://moverz.fr/', permanent: true },
+      { source: '/services/demenagement-premium-lyon/', destination: 'https://moverz.fr/', permanent: true },
+      { source: '/services/demenagement-standard-lyon/', destination: 'https://moverz.fr/', permanent: true },
       // Pages communes
       { source: '/cgu/', destination: 'https://moverz.fr/cgu/', permanent: true },
       { source: '/cgv/', destination: 'https://moverz.fr/cgv/', permanent: true },
