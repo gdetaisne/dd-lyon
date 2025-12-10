@@ -1,4 +1,4 @@
-import { getMoverzBlogRedirectsForHost } from './scripts/blog-moverz-redirects.mjs';
+import { getMoverzBlogRedirectsForHost } from '../../scripts/blog-moverz-redirects.mjs';
 
 const HOST = 'devis-demenageur-lyon.fr';
 
@@ -39,8 +39,12 @@ const nextConfig = {
   async redirects() {
     const existing = [
       // Homepage → Page ville moverz.fr
+      { source: '/', destination: 'https://moverz.fr/demenagement/lyon/', permanent: true },
       // Blog hub → moverz.fr
+      { source: '/blog', destination: 'https://moverz.fr/blog/', permanent: true },
+      { source: '/blog/', destination: 'https://moverz.fr/blog/', permanent: true },
       // Blog articles → moverz.fr
+      { source: '/blog/demenagement-lyon/:slug*', destination: 'https://moverz.fr/blog/:slug*', permanent: true },
       // Quartiers lyon (6 pages)
       { source: '/lyon/', destination: 'https://moverz.fr/lyon/', permanent: true },
       { source: '/lyon/confluence/', destination: 'https://moverz.fr/lyon/confluence/', permanent: true },
@@ -49,6 +53,7 @@ const nextConfig = {
       { source: '/lyon/presquile/', destination: 'https://moverz.fr/lyon/presquile/', permanent: true },
       { source: '/lyon/vieux-lyon/', destination: 'https://moverz.fr/lyon/vieux-lyon/', permanent: true },
       // Hub quartiers lyon
+      { source: '/quartiers-lyon/', destination: 'https://moverz.fr/quartiers-lyon/', permanent: true },
       // Corridors depuis lyon (5 pages)
       { source: '/lyon-vers-espagne/', destination: 'https://moverz.fr/lyon-vers-espagne/', permanent: true },
       { source: '/lyon-vers-marseille/', destination: 'https://moverz.fr/lyon-vers-marseille/', permanent: true },
