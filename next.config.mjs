@@ -43,8 +43,11 @@ const nextConfig = {
       // Blog hub → moverz.fr
       { source: '/blog', destination: 'https://moverz.fr/blog/', permanent: true },
       { source: '/blog/', destination: 'https://moverz.fr/blog/', permanent: true },
-      // Blog articles → moverz.fr
+      // Blog articles spécifiques
+      { source: '/blog/demenageur-lyon/meilleurs-demenageurs-lyon/', destination: 'https://moverz.fr/blog/', permanent: true },
+      // Blog articles → moverz.fr (règle générique)
       { source: '/blog/demenagement-lyon/:slug*', destination: 'https://moverz.fr/blog/:slug*', permanent: true },
+      { source: '/blog/demenageur-lyon/:slug*', destination: 'https://moverz.fr/blog/:slug*', permanent: true },
       // Quartiers lyon (6 pages)
       { source: '/lyon/', destination: 'https://moverz.fr/lyon/', permanent: true },
       { source: '/lyon/confluence/', destination: 'https://moverz.fr/lyon/confluence/', permanent: true },
